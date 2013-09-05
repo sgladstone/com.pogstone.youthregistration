@@ -49,7 +49,7 @@ Current limitations:
 - Only works for paid events (of course event fee can be 0.00) 
 - Physical address info (street address, city, etc) must be collected for the primary parent, or disaster follows. 
 - The profiles for both parents and both emergency contacts are the same for ALL events using this extension. 
-- Assumes for the most common family situations: a parent is registering their own child for an event.
+- Assumes a common family situation: A parent is registering their own child for an event.
 - Financial data ends up on the contact record of the first child being registered, not the primary parent. 
 
 Enhancement ideas:
