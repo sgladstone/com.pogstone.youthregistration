@@ -22,20 +22,23 @@ Depending on the choices the primary parent makes when filling out the event reg
 
 Current features:
 
-You can choose any profile or profiles for each child being registered. (Works the expected way when using the CiviEvent "online registration" tab)
-You can select different child profiles for each event.
-You can add or remove fields to the profiles for each parent and emergency contacts.
-The primary parent is not required to fill in any information about the 2nd parent. (Such as a single parent who does not wish to share information about the other parent)
+- You can choose any profile or profiles for each child being registered. (Works the expected way when using the CiviEvent "online registration" tab)
+- You can select different child profiles for each event.
+- You can add or remove fields to the profiles for each parent and emergency contacts.
+-The primary parent is not required to fill in any information about the 2nd parent. (Such as a single parent who does not wish to share information about the other parent)
+
 Current limitations:
 
-Only works for paid events (of course event fee can be 0.00)
-Physical address info (street address, city, etc) must be collected for the primary parent, or disaster follows.
-The profiles for both parents and both emergency contacts are the same for ALL events using this extension.
-Assumes a common family situation: A parent is registering their own child for an event.
-Financial data ends up on the contact record of the first child being registered, not the primary parent.
+- Only works for paid events (of course event fee can be 0.00)
+- Physical address info (street address, city, etc) must be collected for the primary parent, or disaster follows.
+- The profiles for both parents and both emergency contacts are the same for ALL events using this extension.
+- Assumes a common family situation: A parent is registering their own child for an event.
+- Financial data ends up on the contact record of the first child being registered, not the primary parent.
+
+
 Enhancement ideas:
 
-Allow for unpaid events
-Record financial data on the contact record of the primary parent
-Create "sibling of" relationships between children registered together; or this could be done in batch after the fact for any contacts with the same parent(s)
-Allow other kinds of adults to register a child for an event. (For example: allow for a step-parent to register their step-child for an event, or allow a grandparent to register their grandchild for an event)
+- Allow for unpaid events
+- Record financial data on the contact record of the primary parent
+- Create "sibling of" relationships between children registered together; or this could be done in batch after the fact for any contacts with the same parent(s)
+- Allow other kinds of adults to register a child for an event. (For example: allow for a step-parent to register their step-child for an event, or allow a grandparent to register their grandchild for an event)
