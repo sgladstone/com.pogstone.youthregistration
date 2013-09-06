@@ -14,7 +14,7 @@ Directions:
 
 5) In the section for selecting "Include Profile" be sure to select an appropriate profile to collect data for each child. ( eg such as a profile named "Student Info" ) All data from the selected profile will be recorded on the child's contact/participant record. Do NOT ask for any data about the parent or emergency contacts in this profile.
 
-6) Test out your event! You should see the profile(s) that you selected on step 5, along with profiles for "Current User" (ie parent 1), "Other Parent Or Guardian", and 2 emergency contacts.
+6) Test out your event! You should see the profile(s) that you selected on step 5, along with profiles for "Current User" (ie the primary parent/parent 1), "Other Parent Or Guardian", and 2 emergency contacts.
 
 After someone registers their child, you should see 6 contact records in the back office: One household contact, contact records for each parent, contact records for each emergancy contact, and a contact and partcipant record for each child. The primary parent and the children will ALWAYS be given the relationship "household member of" connecting them to the household. The children will ALWAYS get the relationship of "Child of" connecting them to both parents. The children will ALWAYS get the relationship "emergency contact is" to the 2 emergancy contacts.
 
