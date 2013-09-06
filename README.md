@@ -8,7 +8,7 @@ Version of CiviCRM tested:  3.4.5
 
 Directions:
 
-1) Installing this extension
+1) Install this extension
 
 2) Create a new paid event (or edit an existing paid event).
 
