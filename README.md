@@ -1,4 +1,4 @@
-CiviCRM extension to allow a parent to register their children for an event, while collecting typical information about each parent and each emergancy contact.
+CiviCRM extension to allow a parent to register their children for an event, while collecting typical information about each parent and each emergency contact.
 
 Version of CiviCRM tested: 3.4.5
 
@@ -16,7 +16,7 @@ Directions:
 
 6) Test out your event! You should see the profile(s) that you selected on step 5, along with profiles for "Current User" (ie the primary parent/parent 1), "Other Parent Or Guardian", and 2 emergency contacts.
 
-After someone registers their child, you should see 6 contact records in the back office: One household contact, contact records for each parent, contact records for each emergancy contact, and a contact and partcipant record for each child. The primary parent and the children will ALWAYS be given the relationship "household member of" connecting them to the household. The children will ALWAYS get the relationship of "Child of" connecting them to both parents. The children will ALWAYS get the relationship "emergency contact is" to the 2 emergancy contacts.
+After someone registers their child, you should see 6 contact records in the back office: One household contact, contact records for each parent, contact records for each emergency contact, and a contact and partcipant record for each child. The primary parent and the children will ALWAYS be given the relationship "household member of" connecting them to the household. The children will ALWAYS get the relationship of "Child of" connecting them to both parents. The children will ALWAYS get the relationship "emergency contact is" to the 2 emergency contacts.
 
 Depending on the choices the primary parent makes when filling out the event registration form ( ie "Is my Spouse" and "Shares my Address" questions), then the 2nd parent may get the relationships "spouse of" and "household member of" added.
 
