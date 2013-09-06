@@ -25,7 +25,7 @@ Current features:
 - You can choose any profile or profiles for each child being registered. (Works the expected way when using the CiviEvent "online registration" tab)
 - You can select different child profiles for each event.
 - You can add or remove fields to the profiles for each parent and emergency contacts.
--The primary parent is not required to fill in any information about the 2nd parent. (Such as a single parent who does not wish to share information about the other parent)
+- The primary parent is not required to fill in any information about the 2nd parent. (Such as a single parent who does not wish to share information about the other parent)
 
 Current limitations:
 
@@ -34,6 +34,7 @@ Current limitations:
 - The profiles for both parents and both emergency contacts are the same for ALL events using this extension.
 - Assumes a common family situation: A parent is registering their own child for an event.
 - Financial data ends up on the contact record of the first child being registered, not the primary parent.
+- If a field such as "nickname" is used for parent 1, then it will not show for the 2nd parent profile or emergency contact profiles.
 
 
 Enhancement ideas:
