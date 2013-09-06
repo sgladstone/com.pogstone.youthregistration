@@ -8,7 +8,7 @@ Version of CiviCRM tested:  3.4.5
 
 Directions:
 
-1) Install this extension
+1) Download this to your "extensions" directory, then install this extension (Details at: http://wiki.civicrm.org/confluence/display/CRMDOC40/Extensions+Admin) 
 
 2) Create a new paid event (or edit an existing paid event).
 
@@ -59,7 +59,6 @@ Enhancement ideas:
 - Create "sibling of" relationships between children registered together; or this could be done in batch after the fact for any contacts with the same parent(s) 
 - Allow other kinds of adults to register a child for an event. (For example: allow for a step-parent to register their step-child for an event, or allow a grandparent to register their grandchild for an event)
  
-
 
 
 
