@@ -2,6 +2,8 @@ CiviCRM extension to allow a parent to register their children for an event, whi
 
 Version of CiviCRM tested: 4.3.5
 
+NOTE: This extension is no longer maintained. I recommend using the CiviCRM-WebForm integration module instead. https://civicrm.org/extensions/webform-civicrm-integration  (And consider sponsoring imrovements to that module.) 
+
 Directions:
 
 1) Download this to your "extensions" directory, then install this extension (Details at: http://wiki.civicrm.org/confluence/display/CRMDOC40/Extensions+Admin)
