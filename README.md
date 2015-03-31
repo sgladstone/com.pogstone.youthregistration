@@ -2,7 +2,7 @@ CiviCRM extension to allow a parent to register their children for an event, whi
 
 Version of CiviCRM tested: 4.3.5
 
-NOTE: This extension is no longer maintained. I recommend using the CiviCRM-WebForm integration module instead. https://civicrm.org/extensions/webform-civicrm-integration  (And consider sponsoring imrovements to that module.) 
+NOTE: This extension is no longer maintained. I recommend using the CiviCRM-WebForm integration module instead. https://civicrm.org/extensions/webform-civicrm-integration  (And consider sponsoring improvements to that module.) 
 
 Directions:
 
