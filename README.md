@@ -1,4 +1,4 @@
-CiviCRM extension to allow a parent to register their children for an event, while collecting typical information about each parent and each emergency contact.
+OBSOLETE CiviCRM extension to allow a parent to register their children for an event, while collecting typical information about each parent and each emergency contact.
 
 Version of CiviCRM tested: 4.3.5
 
